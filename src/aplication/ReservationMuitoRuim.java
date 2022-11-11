@@ -1,5 +1,5 @@
 package aplication;
-
+// solução muito ruim = 1
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
