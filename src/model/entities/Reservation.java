@@ -2,7 +2,9 @@ package model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;;
+import java.util.concurrent.TimeUnit;
+
+import model.exceptions.DomainException;
 
 public class Reservation {
 
